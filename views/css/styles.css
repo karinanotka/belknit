@@ -1,0 +1,34 @@
+
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Pangolin', cursive;
+}
+.w3-tangerine {
+    font-family: 'Tangerine', serif;
+}
+.w3-pacifico {
+    font-family: 'Pacifico', cursive;
+
+}
+
+
+.navbar-custom {
+    color:  #404040;
+    background-color: #b3d9ff;
+    padding-top: 0.10;
+}
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+    
+}
+a {
+    color: #404040;
+    text-decoration: none;
+}
+.navbar-brand,
+navbar-nav li a {
+    line-height: 10px;
+    height: 100px;
+    padding-top: 0;
+    text-align:center; 
+    display: inline-block;
+}
